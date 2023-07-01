@@ -5,7 +5,7 @@
 - 📫 How to reach me: roger.cot.lon@gmail.com
 - ⚡ Fun fact: I would like to learn programming on arab 😄 (maybe on `qalb`)
 
-I am an Computer Science Engineering student at [Universitat Politècnica de Catalunya](https://github.com/UPC) and I like the **IT** related field 🙌
+I am a Computer Science student at [Universitat Politècnica de Catalunya](https://github.com/UPC) and I like the **IT** related field 🙌🙌
 
 ##                                                                         Languages          
 
