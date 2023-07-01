@@ -7,7 +7,7 @@
 
 I am an informatic engineer student at `Universitat Politècnica de Catalunya` and I like the **TI** related field 🙌
 
-###                                                                         Languages          
+##                                                                         Languages          
 
 ![c++](https://github.com/RogerCL24/RogerCL24/assets/90930371/03e379d9-9445-448f-b8dd-41b269e1bc25)
 ![py](https://github.com/RogerCL24/RogerCL24/assets/90930371/0c275073-54a7-4525-9e3e-068c5219eaa8)
