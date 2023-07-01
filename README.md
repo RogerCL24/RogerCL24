@@ -9,4 +9,5 @@ I am an informatic engineer student at `Universitat Politècnica de Catalunya` a
 
 ###                                                                         Languages          
 ![py](https://github.com/RogerCL24/RogerCL24/assets/90930371/ecf0e4cc-b5b9-404f-9bb1-f14736fdcf00)
-![c++](https://github.com/RogerCL24/RogerCL24/assets/90930371/e7f78256-113a-4300-a98f-fd89b6fea3ff)
+![c++](https://github.com/RogerCL24/RogerCL24/assets/90930371/d4221803-b9d2-443f-b3bf-8d209165d72f)
+
