@@ -11,3 +11,4 @@ I am an informatic engineer student at `Universitat Politècnica de Catalunya` a
 
 
 ![py](https://github.com/RogerCL24/RogerCL24/assets/90930371/0c275073-54a7-4525-9e3e-068c5219eaa8)
+![c++](https://github.com/RogerCL24/RogerCL24/assets/90930371/29203c36-574a-4d23-8232-0a8c07bab50b)
