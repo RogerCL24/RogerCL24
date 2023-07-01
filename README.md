@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on an small organization called TdD-Inc, alongside college friends
 - 🌱 I’m currently learning Python and some SQL on PostgreSQL.
 - 📫 How to reach me: roger.cot.lon@gmail.com
-- ⚡ Fun fact: I would like to learn programming on arab 😄 (maybe on qalb)
+- ⚡ Fun fact: I would like to learn programming on arab 😄 (maybe on `qalb`)
 
 I am an Computer Science Engineering student at [Universitat Politècnica de Catalunya](https://github.com/UPC) and I like the **IT** related field 🙌
 
