@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on an small organization called Tekhmos Corp., alongside college friends
-- 🌱 I’m currently learning Python (_more particularly PyQt5 library_) and some SQL on PostgreSQL.
+- 🌱 I’m currently learning Python and some SQL on PostgreSQL.
 - 📫 How to reach me: roger@tekhmos.com
 - ⚡ Fun fact: I would like to learn programming on arab 😄 (maybe on `قلب`)
 
