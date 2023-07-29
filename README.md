@@ -13,3 +13,9 @@ I am a Computer Science student at [Universitat Politècnica de Catalunya](https
 ![py](https://github.com/RogerCL24/RogerCL24/assets/90930371/0c275073-54a7-4525-9e3e-068c5219eaa8)
 ![pg](https://github.com/RogerCL24/RogerCL24/assets/90930371/c2030f59-7e7c-4dd8-9326-cd3259b773d0)
 
+<br>
+<div align="center">
+  
+[![Data](https://profile-summary-for-github.com/user/RogerCL24)](https://github.com/RogerCL24)
+<br>
+</div>
