@@ -10,5 +10,5 @@ I am a Computer Science student at [Universitat Politècnica de Catalunya](https
 ##                                                                         Languages          
 
 ![c++](https://github.com/RogerCL24/RogerCL24/assets/90930371/03e379d9-9445-448f-b8dd-41b269e1bc25)
-![py](https://github.com/RogerCL24/RogerCL24/assets/90930371/0c275073-54a7-4525-9e3e-068c5219eaa8)
+[py](https://github.com/RogerCL24/RogerCL24/assets/90930371/0c275073-54a7-4525-9e3e-068c5219eaa8)
 
