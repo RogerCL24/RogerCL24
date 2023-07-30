@@ -23,6 +23,8 @@ I am a Computer Science student at [Universitat Politècnica de Catalunya](https
 
 <br>
 <div align="center">
+  
 [![Cheese](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerCL24&layout=pie&theme=github_dark)](https://github.com/RogerCL24)
+
 <br>
 </div>
