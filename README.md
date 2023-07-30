@@ -17,7 +17,7 @@ I am a Computer Science student at [Universitat Politècnica de Catalunya](https
 <div align="center">
 
 [![Data](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RogerCL24&theme=github_dark)](https://github.com/RogerCL24)
+[![Cheese](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerCL24&layout=pie&theme=github_dark)](https://github.com/RogerCL24)
 <br>
 </div>
 
-[![Cheese](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerCL24&layout=pie)](https://github.com/RogerCL24)
