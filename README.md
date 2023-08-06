@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+<a href="https://github.com/RogerCL24">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Roger+Cot;IT+%7C+Bachelor+Student+%7C+IT+Engineer;AI+%7C+Cyber+Security+%7C" alt="Typing SVG" />
+</a>
+<br/>
+
 - 🔭 I’m currently working on an small organization, [Tekhmos Corp.](https://github.com/Tekhmos-Corp), alongside college friends
 - 🌱 I’m currently learning Python and some SQL on PostgreSQL.
 - 📫 How to reach me: roger@tekhmos.com
