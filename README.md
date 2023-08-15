@@ -21,7 +21,7 @@ I am a Computer Science student at [Universitat Politècnica de Catalunya](https
 
 <div align="center">
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerCL24&layout=donut-vertical&theme=dark)](https://github.com/RogerCL24/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerCL24&layout=donut-vertical&theme=dark)](https://github.com/RogerCL24)
 </div>
 
 <br>
