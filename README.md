@@ -22,7 +22,7 @@ I am a Computer Science student at [Universitat Politècnica de Catalunya](https
 <br>
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerCL24&layout=compact&theme=github_dark)
 
 <br>
 </div>
