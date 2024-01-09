@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on an small organization, [Tekhmos Corp.](https://github.com/Tekhmos-Corp), alongside college friends
 - 🌱 I’m currently learning Python and Node.js
 - 📫 How to reach me: roger@tekhmos.com
-- ⚡ Fun fact: I would like to learn programming on arab 😄 (maybe on `قلب`)
+
 
 I am a Computer Science student at [Universitat Politècnica de Catalunya](https://github.com/UPC) and I like the **IT** related field 🙌🙌
 
