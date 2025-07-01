@@ -7,7 +7,7 @@
 <br/>
 
 - 🔭 I’m currently working on an small organization, [Tekhmos Corp.](https://github.com/Tekhmos-Corp), alongside college friends
-- 🌱 I’m currently learning Python and Node.js
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: roger@tekhmos.com
 
 
